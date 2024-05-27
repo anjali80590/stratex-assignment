@@ -1,6 +1,6 @@
 [Live Link](https://stratex-assignment.netlify.app/).
 
-[Demo Link](https://www.loom.com/share/8dbac975ae92410b97a6d7ab0eead80d?sid=41efb676-f1bc-400f-b963-0a124ac9291f).
+[Demo Link](https://www.loom.com/share/f1b38dfc1eb3478eb9d58cb9ae0ecab1?sid=3c734c3a-8ba5-47de-b01b-db79d408fb4f).
 
 
 
